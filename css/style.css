@@ -1,0 +1,131 @@
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 123px;
+    width: 100px;
+    margin-top: 10px;
+}
+.header-wraper{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+}
+.color{
+    color: rgb(207, 19, 19);
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    margin-right: 70px;
+    color: #48ff00;
+    margin-left:90px;
+    margin-bottom: 50px;
+}
+.image{
+    width: 100%;
+    border-radius: 50%;
+}
+.image-wrapper{
+    position: relative;
+}
+/* .section-title{
+    position: relative;
+    top: 106px ;
+    left: 664px;
+    color: white;
+    font-size: 25px;
+} */
+.section1{
+    background-color: white;
+    margin: 98px;
+}
+.container{
+    width: 1332px;
+    margin: 0 auto;
+}
+.block1{
+    display: inline-block;
+    width: 636px;
+    margin-right: 52px ;
+    margin-bottom: 57px;
+}
+.block2{
+	display: inline-block;
+	width: 636px;
+}
+.block3{
+    display: inline-block;
+    width: 636px;
+    margin-right: 52px ;
+    margin-bottom: 57px;
+}
+.block4{
+	display: inline-block;
+	width: 636px;
+}
+.title{
+    margin-top: 20px;
+    margin-bottom: 22px; 
+	font-size: 36px;
+    background-color: red;
+    padding-left: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+.paragraph{
+	margin-bottom: 13px;
+}
+/* .color-block {
+width: 100%;
+height:266px; 
+background-color:#001450 ;
+margin-top: 134px;
+} */
+/* footer starts here */
+.footer-container{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #001450 ;
+}
+.footer1{
+    display: inline-block;
+    margin-right: 210px;
+    vertical-align: top;
+}
+.footer2{
+    display: inline-block;
+    margin-right: 252px;
+    vertical-align: top;
+}
+.footer3{
+    display: inline-block;
+    margin-right: 120px;
+    vertical-align: top;
+}
+.footer4{
+    display: inline-block;
+    vertical-align: top;
+}
+.footerfont{
+    font-size: 20px;
+    color: darkblue;
+}
+.footer-title{
+    color: coral;
+    font-size: 30px;
+    margin-bottom: 18px;
+    margin-top: 81px;
+}
+.Copyright{
+    text-align: right;
+    color: crimson;
+    font-size: 20px;
+}
